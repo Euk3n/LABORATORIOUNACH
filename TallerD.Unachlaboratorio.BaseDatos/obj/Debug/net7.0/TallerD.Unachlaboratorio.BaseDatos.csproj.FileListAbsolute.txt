@@ -1,0 +1,15 @@
+C:\Users\eugen\TallerD\API5M\TallerD.Unachlaboratorio.BaseDatos\bin\Debug\net7.0\TallerD.Unachlaboratorio.BaseDatos.deps.json
+C:\Users\eugen\TallerD\API5M\TallerD.Unachlaboratorio.BaseDatos\bin\Debug\net7.0\TallerD.Unachlaboratorio.BaseDatos.dll
+C:\Users\eugen\TallerD\API5M\TallerD.Unachlaboratorio.BaseDatos\bin\Debug\net7.0\TallerD.Unachlaboratorio.BaseDatos.pdb
+C:\Users\eugen\TallerD\API5M\TallerD.Unachlaboratorio.BaseDatos\bin\Debug\net7.0\TallerD.Unachlaboratorio.Modelos.dll
+C:\Users\eugen\TallerD\API5M\TallerD.Unachlaboratorio.BaseDatos\bin\Debug\net7.0\TallerD.Unachlaboratorio.Modelos.pdb
+C:\Users\eugen\TallerD\API5M\TallerD.Unachlaboratorio.BaseDatos\obj\Debug\net7.0\TallerD.Unachlaboratorio.BaseDatos.csproj.AssemblyReference.cache
+C:\Users\eugen\TallerD\API5M\TallerD.Unachlaboratorio.BaseDatos\obj\Debug\net7.0\TallerD.Unachlaboratorio.BaseDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eugen\TallerD\API5M\TallerD.Unachlaboratorio.BaseDatos\obj\Debug\net7.0\TallerD.Unachlaboratorio.BaseDatos.AssemblyInfoInputs.cache
+C:\Users\eugen\TallerD\API5M\TallerD.Unachlaboratorio.BaseDatos\obj\Debug\net7.0\TallerD.Unachlaboratorio.BaseDatos.AssemblyInfo.cs
+C:\Users\eugen\TallerD\API5M\TallerD.Unachlaboratorio.BaseDatos\obj\Debug\net7.0\TallerD.Unachlaboratorio.BaseDatos.csproj.CoreCompileInputs.cache
+C:\Users\eugen\TallerD\API5M\TallerD.Unachlaboratorio.BaseDatos\obj\Debug\net7.0\TallerD.Unachlaboratorio.BaseDatos.csproj.CopyComplete
+C:\Users\eugen\TallerD\API5M\TallerD.Unachlaboratorio.BaseDatos\obj\Debug\net7.0\TallerD.Unachlaboratorio.BaseDatos.dll
+C:\Users\eugen\TallerD\API5M\TallerD.Unachlaboratorio.BaseDatos\obj\Debug\net7.0\refint\TallerD.Unachlaboratorio.BaseDatos.dll
+C:\Users\eugen\TallerD\API5M\TallerD.Unachlaboratorio.BaseDatos\obj\Debug\net7.0\TallerD.Unachlaboratorio.BaseDatos.pdb
+C:\Users\eugen\TallerD\API5M\TallerD.Unachlaboratorio.BaseDatos\obj\Debug\net7.0\ref\TallerD.Unachlaboratorio.BaseDatos.dll

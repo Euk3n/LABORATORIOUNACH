@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TallerD.UnachLaboratorio.API.props" />
+</Project>

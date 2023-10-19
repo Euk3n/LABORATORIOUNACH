@@ -1,0 +1,17 @@
+C:\Users\eugen\TallerD\API5M\TallerD.Unachlaboratorio.Repositorios\bin\Debug\net7.0\TallerD.Unachlaboratorio.Repositorios.deps.json
+C:\Users\eugen\TallerD\API5M\TallerD.Unachlaboratorio.Repositorios\bin\Debug\net7.0\TallerD.Unachlaboratorio.Repositorios.dll
+C:\Users\eugen\TallerD\API5M\TallerD.Unachlaboratorio.Repositorios\bin\Debug\net7.0\TallerD.Unachlaboratorio.Repositorios.pdb
+C:\Users\eugen\TallerD\API5M\TallerD.Unachlaboratorio.Repositorios\bin\Debug\net7.0\TallerD.Unachlaboratorio.BaseDatos.dll
+C:\Users\eugen\TallerD\API5M\TallerD.Unachlaboratorio.Repositorios\bin\Debug\net7.0\TallerD.Unachlaboratorio.Modelos.dll
+C:\Users\eugen\TallerD\API5M\TallerD.Unachlaboratorio.Repositorios\bin\Debug\net7.0\TallerD.Unachlaboratorio.Modelos.pdb
+C:\Users\eugen\TallerD\API5M\TallerD.Unachlaboratorio.Repositorios\bin\Debug\net7.0\TallerD.Unachlaboratorio.BaseDatos.pdb
+C:\Users\eugen\TallerD\API5M\TallerD.Unachlaboratorio.Repositorios\obj\Debug\net7.0\TallerD.Unachlaboratorio.Repositorios.csproj.AssemblyReference.cache
+C:\Users\eugen\TallerD\API5M\TallerD.Unachlaboratorio.Repositorios\obj\Debug\net7.0\TallerD.Unachlaboratorio.Repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eugen\TallerD\API5M\TallerD.Unachlaboratorio.Repositorios\obj\Debug\net7.0\TallerD.Unachlaboratorio.Repositorios.AssemblyInfoInputs.cache
+C:\Users\eugen\TallerD\API5M\TallerD.Unachlaboratorio.Repositorios\obj\Debug\net7.0\TallerD.Unachlaboratorio.Repositorios.AssemblyInfo.cs
+C:\Users\eugen\TallerD\API5M\TallerD.Unachlaboratorio.Repositorios\obj\Debug\net7.0\TallerD.Unachlaboratorio.Repositorios.csproj.CoreCompileInputs.cache
+C:\Users\eugen\TallerD\API5M\TallerD.Unachlaboratorio.Repositorios\obj\Debug\net7.0\TallerD.Unachlaboratorio.Repositorios.csproj.CopyComplete
+C:\Users\eugen\TallerD\API5M\TallerD.Unachlaboratorio.Repositorios\obj\Debug\net7.0\TallerD.Unachlaboratorio.Repositorios.dll
+C:\Users\eugen\TallerD\API5M\TallerD.Unachlaboratorio.Repositorios\obj\Debug\net7.0\refint\TallerD.Unachlaboratorio.Repositorios.dll
+C:\Users\eugen\TallerD\API5M\TallerD.Unachlaboratorio.Repositorios\obj\Debug\net7.0\TallerD.Unachlaboratorio.Repositorios.pdb
+C:\Users\eugen\TallerD\API5M\TallerD.Unachlaboratorio.Repositorios\obj\Debug\net7.0\ref\TallerD.Unachlaboratorio.Repositorios.dll

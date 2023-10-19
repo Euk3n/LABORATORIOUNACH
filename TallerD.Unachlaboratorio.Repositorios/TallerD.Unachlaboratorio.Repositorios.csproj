@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\TallerD.Unachlaboratorio.Modelos\TallerD.Unachlaboratorio.Modelos.csproj" />
+    <ProjectReference Include="..\TallerD.Unachlaboratorio.BaseDatos\TallerD.Unachlaboratorio.BaseDatos.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
