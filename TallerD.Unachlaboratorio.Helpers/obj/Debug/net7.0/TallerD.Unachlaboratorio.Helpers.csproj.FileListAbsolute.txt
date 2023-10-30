@@ -1,0 +1,11 @@
+C:\Users\eugen\TallerD\API5M\TallerD.Unachlaboratorio.Helpers\bin\Debug\net7.0\TallerD.Unachlaboratorio.Helpers.deps.json
+C:\Users\eugen\TallerD\API5M\TallerD.Unachlaboratorio.Helpers\bin\Debug\net7.0\TallerD.Unachlaboratorio.Helpers.dll
+C:\Users\eugen\TallerD\API5M\TallerD.Unachlaboratorio.Helpers\bin\Debug\net7.0\TallerD.Unachlaboratorio.Helpers.pdb
+C:\Users\eugen\TallerD\API5M\TallerD.Unachlaboratorio.Helpers\obj\Debug\net7.0\TallerD.Unachlaboratorio.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eugen\TallerD\API5M\TallerD.Unachlaboratorio.Helpers\obj\Debug\net7.0\TallerD.Unachlaboratorio.Helpers.AssemblyInfoInputs.cache
+C:\Users\eugen\TallerD\API5M\TallerD.Unachlaboratorio.Helpers\obj\Debug\net7.0\TallerD.Unachlaboratorio.Helpers.AssemblyInfo.cs
+C:\Users\eugen\TallerD\API5M\TallerD.Unachlaboratorio.Helpers\obj\Debug\net7.0\TallerD.Unachlaboratorio.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\eugen\TallerD\API5M\TallerD.Unachlaboratorio.Helpers\obj\Debug\net7.0\TallerD.Unachlaboratorio.Helpers.dll
+C:\Users\eugen\TallerD\API5M\TallerD.Unachlaboratorio.Helpers\obj\Debug\net7.0\refint\TallerD.Unachlaboratorio.Helpers.dll
+C:\Users\eugen\TallerD\API5M\TallerD.Unachlaboratorio.Helpers\obj\Debug\net7.0\TallerD.Unachlaboratorio.Helpers.pdb
+C:\Users\eugen\TallerD\API5M\TallerD.Unachlaboratorio.Helpers\obj\Debug\net7.0\ref\TallerD.Unachlaboratorio.Helpers.dll

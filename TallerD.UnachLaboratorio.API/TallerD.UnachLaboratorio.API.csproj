@@ -13,6 +13,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\TallerD.Unachlaboratorio.Repositorios\TallerD.Unachlaboratorio.Repositorios.csproj" />
+    <ProjectReference Include="..\TallerD.Unachlaboratorio.Helpers\TallerD.Unachlaboratorio.Helpers.csproj" />
   </ItemGroup>
 
 </Project>

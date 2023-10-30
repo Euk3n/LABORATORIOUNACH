@@ -15,3 +15,5 @@ C:\Users\eugen\TallerD\API5M\TallerD.Unachlaboratorio.Repositorios\obj\Debug\net
 C:\Users\eugen\TallerD\API5M\TallerD.Unachlaboratorio.Repositorios\obj\Debug\net7.0\refint\TallerD.Unachlaboratorio.Repositorios.dll
 C:\Users\eugen\TallerD\API5M\TallerD.Unachlaboratorio.Repositorios\obj\Debug\net7.0\TallerD.Unachlaboratorio.Repositorios.pdb
 C:\Users\eugen\TallerD\API5M\TallerD.Unachlaboratorio.Repositorios\obj\Debug\net7.0\ref\TallerD.Unachlaboratorio.Repositorios.dll
+C:\Users\eugen\TallerD\API5M\TallerD.Unachlaboratorio.Repositorios\bin\Debug\net7.0\TallerD.Unachlaboratorio.Helpers.dll
+C:\Users\eugen\TallerD\API5M\TallerD.Unachlaboratorio.Repositorios\bin\Debug\net7.0\TallerD.Unachlaboratorio.Helpers.pdb

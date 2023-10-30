@@ -3,6 +3,7 @@
   <ItemGroup>
     <ProjectReference Include="..\TallerD.Unachlaboratorio.Modelos\TallerD.Unachlaboratorio.Modelos.csproj" />
     <ProjectReference Include="..\TallerD.Unachlaboratorio.BaseDatos\TallerD.Unachlaboratorio.BaseDatos.csproj" />
+    <ProjectReference Include="..\TallerD.Unachlaboratorio.Helpers\TallerD.Unachlaboratorio.Helpers.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
