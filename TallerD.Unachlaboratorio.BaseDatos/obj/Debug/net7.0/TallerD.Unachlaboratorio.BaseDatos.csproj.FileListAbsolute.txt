@@ -15,3 +15,5 @@ C:\Users\eugen\TallerD\API5M\TallerD.Unachlaboratorio.BaseDatos\obj\Debug\net7.0
 C:\Users\eugen\TallerD\API5M\TallerD.Unachlaboratorio.BaseDatos\obj\Debug\net7.0\ref\TallerD.Unachlaboratorio.BaseDatos.dll
 C:\Users\eugen\TallerD\API5M\TallerD.Unachlaboratorio.BaseDatos\bin\Debug\net7.0\TallerD.Unachlaboratorio.BaseDatos.runtimeconfig.json
 C:\Users\eugen\TallerD\API5M\TallerD.Unachlaboratorio.BaseDatos\obj\Debug\net7.0\TallerD.Unachlaboratorio.BaseDatos.genruntimeconfig.cache
+C:\Users\eugen\TallerD\API5M\TallerD.Unachlaboratorio.BaseDatos\bin\Debug\net7.0\TallerD.Unachlaboratorio.Helpers.dll
+C:\Users\eugen\TallerD\API5M\TallerD.Unachlaboratorio.BaseDatos\bin\Debug\net7.0\TallerD.Unachlaboratorio.Helpers.pdb

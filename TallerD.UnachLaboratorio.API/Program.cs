@@ -1,13 +1,27 @@
 
 using TallerD.Unachlaboratorio.Helpers;
 
-internal class Program
+
+internal class Programs
 {
 
     private static void Main(string[] args)
     {
+        
         var builder = WebApplication.CreateBuilder(args);
 
+
+        builder.Services.AddTransient<IControl, ControlService>();
+        builder.Services.AddTransient<IDocente, DocenteService>();
+        builder.Services.AddTransient<IGrupos, GruposService>();
+        builder.Services.AddTransient<IHorarioDocente, HorarioDocenteService>();
+        builder.Services.AddTransient<ILaboratorio, LaboratorioService>();
+        builder.Services.AddTransient<IMateria, MateriaService>();
+        builder.Services.AddTransient<ISolicitud, SolicitudService>();
+
+
+        
+        
         //Inyeccion de dependencias
         builder.Services.AddTransient<ILogin, LoginService>();
         ContextoConfiguracion.CadenaDB = builder.Configuration.GetConnectionString("CadenaConexion")??"";

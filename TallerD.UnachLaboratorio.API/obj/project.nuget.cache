@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "MfYYNw8HoAYW8j4VLwwkcIcWDLzWGq/ifDDcnDz80wqh4+N8DdVdQ1V9kcafc5pH/OVDMUCffdUxoaLJXMW1wg==",
+  "dgSpecHash": "czcVUiiX6jNa1C6W9o6r8Gv2N5SqSVUJxyGEeju9g5xu4dJHCuLsdvD3slie3H1vWeKd9l3jGPaapZzosZj8aw==",
   "success": true,
   "projectFilePath": "C:\\Users\\eugen\\TallerD\\API5M\\TallerD.UnachLaboratorio.API\\TallerD.UnachLaboratorio.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eugen\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\eugen\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
-    "C:\\Users\\eugen\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.11\\microsoft.aspnetcore.openapi.7.0.11.nupkg.sha512",
+    "C:\\Users\\eugen\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.20\\microsoft.aspnetcore.authentication.jwtbearer.3.1.20.nupkg.sha512",
+    "C:\\Users\\eugen\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.0\\microsoft.aspnetcore.openapi.7.0.0.nupkg.sha512",
     "C:\\Users\\eugen\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\eugen\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\eugen\\.nuget\\packages\\microsoft.data.sqlclient\\5.1.1\\microsoft.data.sqlclient.5.1.1.nupkg.sha512",
